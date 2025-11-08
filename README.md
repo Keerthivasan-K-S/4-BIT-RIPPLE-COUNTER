@@ -40,7 +40,7 @@ In timing diagram Q0 is changing as soon as the negative edge of clock pulse is 
  Developed by: Keerthivasan K S
  RegisterNumber: 212224230120
 
-```.qsf
+```.py
 module Exp_12 (
     input clk,      // Clock input
     input reset,    // Reset input (active high)
