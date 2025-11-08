@@ -4,13 +4,13 @@
 
 To implement  4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
 
-## SOFTWARE REQUIRED:**
+## SOFTWARE REQUIRED:
 
 Quartus prime
 
-## THEORY**
+## THEORY
 
-### 4 Bit Ripple Counter**
+### 4 Bit Ripple Counter
 
 A binary ripple counter consists of a series connection of complementing flip-flops (T or JK type), with the output of each flip-flop connected to the Clock Pulse input of the next higher-order flip-flop. The flip-flop holding the least significant bit receives the incoming count pulses. The diagram of a 4-bit binary ripple counter is shown in Fig. below.
 
